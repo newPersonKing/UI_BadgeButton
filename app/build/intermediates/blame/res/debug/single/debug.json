@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_list_4.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xhdpi/list_4.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_list_3.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xhdpi/list_3.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/drawable_badge.xml.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/drawable/badge.xml"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_list_5.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xhdpi/list_5.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/layout_item_tab.xml.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/layout/item_tab.xml"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_list_6.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xhdpi/list_6.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_list_2.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xhdpi/list_2.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/color_tab.xml.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/color/tab.xml"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/drawable_badge_grid.xml.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/drawable/badge_grid.xml"
+    },
+    {
+        "merged": "/Users/guoyong/Desktop/badgebutton-master/app/build/intermediates/res/merged/debug/mipmap-xhdpi_list_1.png.flat",
+        "source": "/Users/guoyong/Desktop/badgebutton-master/app/src/main/res/mipmap-xhdpi/list_1.png"
+    }
+]

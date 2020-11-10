@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [:library] /Users/guoyong/Desktop/badgebutton-master/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/1a6d5246fe3ce1dacad12261914a4eb0/design-25.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/bb09e7af4848358365a16aee29b5873a/appcompat-v7-25.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:gridlayout-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/8bf6a0ad917fe1fad2457c7a52f729f9/gridlayout-v7-25.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:transition:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/f847e31b454418b7d012201226dd7856/transition-25.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/ec56ee7be82e041f8b96a9cba86db5de/support-v4-25.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/113105c0b00e064cdcccd248cef214cc/animated-vector-drawable-25.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/226baf5f834724a19161c981ee62dcc9/support-vector-drawable-25.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/3c1f98d7fc0d9ac3f60aa2c742800f41/recyclerview-v7-25.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/2e95f0d5e228b0b870bb44a4a391b5a8/support-fragment-25.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/c6bb2cf48566f32945753e0521f3b015/support-core-ui-25.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/84ec3431471d56b592562631c59a1293/support-media-compat-25.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/44ce4010581a993ec531e126e4642d94/support-core-utils-25.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/be3f6788558f8b66f4bebec3f9060dce/support-compat-25.0.0/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:11-41
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:design:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/1a6d5246fe3ce1dacad12261914a4eb0/design-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/1a6d5246fe3ce1dacad12261914a4eb0/design-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/bb09e7af4848358365a16aee29b5873a/appcompat-v7-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/bb09e7af4848358365a16aee29b5873a/appcompat-v7-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:gridlayout-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/8bf6a0ad917fe1fad2457c7a52f729f9/gridlayout-v7-25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:gridlayout-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/8bf6a0ad917fe1fad2457c7a52f729f9/gridlayout-v7-25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/f847e31b454418b7d012201226dd7856/transition-25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/f847e31b454418b7d012201226dd7856/transition-25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/ec56ee7be82e041f8b96a9cba86db5de/support-v4-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/ec56ee7be82e041f8b96a9cba86db5de/support-v4-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/113105c0b00e064cdcccd248cef214cc/animated-vector-drawable-25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/113105c0b00e064cdcccd248cef214cc/animated-vector-drawable-25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/226baf5f834724a19161c981ee62dcc9/support-vector-drawable-25.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/226baf5f834724a19161c981ee62dcc9/support-vector-drawable-25.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/2e95f0d5e228b0b870bb44a4a391b5a8/support-fragment-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/2e95f0d5e228b0b870bb44a4a391b5a8/support-fragment-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/c6bb2cf48566f32945753e0521f3b015/support-core-ui-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/c6bb2cf48566f32945753e0521f3b015/support-core-ui-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/84ec3431471d56b592562631c59a1293/support-media-compat-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/84ec3431471d56b592562631c59a1293/support-media-compat-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/44ce4010581a993ec531e126e4642d94/support-core-utils-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/44ce4010581a993ec531e126e4642d94/support-core-utils-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/be3f6788558f8b66f4bebec3f9060dce/support-compat-25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/be3f6788558f8b66f4bebec3f9060dce/support-compat-25.0.0/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:10:9-40
+activity#ezy.demo.badgebutton.MainActivity
+ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+MERGED from [:library] /Users/guoyong/Desktop/badgebutton-master/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /Users/guoyong/Desktop/badgebutton-master/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/1a6d5246fe3ce1dacad12261914a4eb0/design-25.0.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/1a6d5246fe3ce1dacad12261914a4eb0/design-25.0.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/bb09e7af4848358365a16aee29b5873a/appcompat-v7-25.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/bb09e7af4848358365a16aee29b5873a/appcompat-v7-25.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:gridlayout-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/8bf6a0ad917fe1fad2457c7a52f729f9/gridlayout-v7-25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/8bf6a0ad917fe1fad2457c7a52f729f9/gridlayout-v7-25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/f847e31b454418b7d012201226dd7856/transition-25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/f847e31b454418b7d012201226dd7856/transition-25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/ec56ee7be82e041f8b96a9cba86db5de/support-v4-25.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/ec56ee7be82e041f8b96a9cba86db5de/support-v4-25.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/113105c0b00e064cdcccd248cef214cc/animated-vector-drawable-25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/113105c0b00e064cdcccd248cef214cc/animated-vector-drawable-25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/226baf5f834724a19161c981ee62dcc9/support-vector-drawable-25.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/226baf5f834724a19161c981ee62dcc9/support-vector-drawable-25.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/3c1f98d7fc0d9ac3f60aa2c742800f41/recyclerview-v7-25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/3c1f98d7fc0d9ac3f60aa2c742800f41/recyclerview-v7-25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/2e95f0d5e228b0b870bb44a4a391b5a8/support-fragment-25.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/2e95f0d5e228b0b870bb44a4a391b5a8/support-fragment-25.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/c6bb2cf48566f32945753e0521f3b015/support-core-ui-25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/c6bb2cf48566f32945753e0521f3b015/support-core-ui-25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/84ec3431471d56b592562631c59a1293/support-media-compat-25.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/84ec3431471d56b592562631c59a1293/support-media-compat-25.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/44ce4010581a993ec531e126e4642d94/support-core-utils-25.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/44ce4010581a993ec531e126e4642d94/support-core-utils-25.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/be3f6788558f8b66f4bebec3f9060dce/support-compat-25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/be3f6788558f8b66f4bebec3f9060dce/support-compat-25.0.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] /Users/guoyong/.gradle/caches/transforms-2/files-2.1/1a6d5246fe3ce1dacad12261914a4eb0/design-25.0.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml

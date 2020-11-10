@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ezy.demo.badgebutton"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:5:5-18:19
+12        android:allowBackup="true"
+12-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:8:9-41
+16        android:supportsRtl="true"
+16-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:9:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:10:9-40
+19        <activity android:name="ezy.demo.badgebutton.MainActivity" >
+19-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:11:9-17:20
+19-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:11:19-47
+20            <intent-filter>
+20-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:12:13-16:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:13:17-68
+21-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:13:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:15:17-76
+23-->/Users/guoyong/Desktop/badgebutton-master/app/src/main/AndroidManifest.xml:15:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

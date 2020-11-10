@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+attr? btnBadgeColor
+attr? btnBadgeHeight
+attr? btnBadgeText
+attr? btnBadgeVisible
+styleable BadgeButton btnBadgeText btnBadgeHeight btnBadgeColor btnBadgeVisible

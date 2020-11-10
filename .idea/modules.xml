@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="badgebutton-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/badgebutton-master.iml" filepath="$PROJECT_DIR$/.idea/modules/badgebutton-master.iml" group="badgebutton-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/library.iml" group="badgebutton-master/library" />
+    </modules>
+  </component>
+</project>
